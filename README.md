@@ -12,7 +12,7 @@ Update one document - PATCH on /mongoose-todo-app/:id
 
 Delete one document - DELETE on /mongoose-todo-app/:id
 
-There are also a test scripts for  GET, POST, PUT, and DELETE.
+There are also a test scripts for  GET, POST, PATCH, and DELETE.
 
 To run any script just change in package.json file like test.delete.js, test.get.js
 
