@@ -1,6 +1,6 @@
 # MongooseTodoApp
 
-With this example, you can do simple GET, POST, PUT, and DELETE operations:
+With this example, you can do simple GET, POST, PATCH, and DELETE operations:
 
 Create a document - POST on /mongoose-todo-app  
 
